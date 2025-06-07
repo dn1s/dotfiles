@@ -1,0 +1,7 @@
+[user]
+        email = dominik.n.schuster@gmail.com
+        name = Dominik Schuster
+[push]
+        autoSetupRemote = true
+[rebase]
+        autosquash = true
